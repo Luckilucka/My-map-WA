@@ -4,7 +4,7 @@
  "layers":[
         {
          "id":2,
-         "image":"https://luckilucka.github.io/map_antichambre_eeg101/image_finale.png",
+         "image":"image_finale.png",
          "imageheight":576,
          "imagewidth":1056,
          "name":"floor",
@@ -265,4 +265,5 @@
  "width":33
 
 }
+
 
