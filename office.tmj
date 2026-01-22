@@ -26,14 +26,14 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":33,
          "x":0,
          "y":0
         }, 
         {
          "id":63,
-         "image":"..\image_finale.png",
+         "image":"image_finale.png",
          "imageheight":576,
          "imagewidth":1056,
          "name":"labo",
@@ -343,3 +343,4 @@
  "width":33
 
 }
+
