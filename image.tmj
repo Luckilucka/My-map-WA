@@ -33,7 +33,7 @@
         }, 
         {
          "id":2,
-         "image":"..\/..\/..\/Users\/lucai\/Downloads\/image_finale.png",
+         "image":"image_finale.png",
          "imageheight":576,
          "imagewidth":1056,
          "name":"LABO",
@@ -54,4 +54,5 @@
  "type":"map",
  "version":"1.10",
  "width":33
+
 }
