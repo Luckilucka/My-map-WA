@@ -4,7 +4,7 @@
  "layers":[
         {
          "id":2,
-         "image":"image_finale.png",
+         "image":"https://luckilucka.github.io/My-map-WA/image_finale.png",
          "imageheight":576,
          "imagewidth":1056,
          "name":"floor",
@@ -265,6 +265,7 @@
  "width":33
 
 }
+
 
 
 
