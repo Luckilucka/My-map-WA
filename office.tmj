@@ -550,7 +550,7 @@
                 {
                  "height":78.6666666666666,
                  "id":40,
-                 "name":"",
+                 "name":"npc_bob",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -593,7 +593,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"https:\/\/luckilucka.github.io\/My-map-WA\/script.js\n"
+         "value":"https:\/\/luckilucka.github.io\/My-map-WA\/script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
