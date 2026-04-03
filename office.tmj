@@ -461,10 +461,21 @@
                  "width":32,
                  "x":64,
                  "y":544
-                }, 
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":66,
+         "name":"zoneArea",
+         "objects":[
                 {
-                 "height":104,
-                 "id":43,
+                 "height":120,
+                 "id":44,
                  "name":"npc_bob",
                  "properties":[
                         {
@@ -475,9 +486,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":176,
-                 "x":176,
-                 "y":302
+                 "width":231,
+                 "x":136,
+                 "y":284
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -559,8 +570,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":66,
- "nextobjectid":44,
+ "nextlayerid":67,
+ "nextobjectid":45,
  "orientation":"orthogonal",
  "properties":[
         {
