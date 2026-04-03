@@ -461,6 +461,23 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":104,
+                 "id":43,
+                 "name":"npc_bob",
+                 "properties":[
+                        {
+                         "name":"name",
+                         "type":"string",
+                         "value":"npc_bob"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":176,
+                 "x":176,
+                 "y":302
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -541,33 +558,9 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":65,
-         "name":"npc_bob",
-         "objects":[
-                {
-                 "height":78.6666666666666,
-                 "id":40,
-                 "name":"npc_bob",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":125.333333333333,
-                 "x":208,
-                 "y":320
-                }],
-         "offsetx":14.6666666666667,
-         "offsety":-20,
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
         }],
  "nextlayerid":66,
- "nextobjectid":43,
+ "nextobjectid":44,
  "orientation":"orthogonal",
  "properties":[
         {
